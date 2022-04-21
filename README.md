@@ -1,7 +1,7 @@
 ## Lab 3 madlib-cli
 
 # Links and Resources
-PR link : 
+[PR LInk](https://github.com/bkhanal4351/madlib-cli/pull/1)
 
 # To do
 
